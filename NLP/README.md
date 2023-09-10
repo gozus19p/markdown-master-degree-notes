@@ -13,3 +13,4 @@ per preparare l'esame finale.
 1. [Semantica Vettoriale](01.Semantica%20Vettoriale.md)
 2. [Approcci Computazionali](02.Approcci%20computazionali.md)
 3. [Approcci Generativi](03.Approcci%20generativi.md)
+4. [Approcci Discriminativi](04.Approcci%20discriminativi.md)
