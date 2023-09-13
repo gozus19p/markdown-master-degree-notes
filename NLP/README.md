@@ -1,13 +1,22 @@
 # Natural Language Processing (NLP)
 
+### Appunti
+
+1. [Semantica Vettoriale](01.Semantica%20Vettoriale.md)
+2. [Approcci Computazionali](02.Approcci%20computazionali.md)
+3. [Approcci Generativi](03.Approcci%20generativi.md)
+4. [Approcci Discriminativi](04.Approcci%20discriminativi.md)
+5. [Text Classification - DNN in NLP](05.Text%20Classification%20-%20DNN%20in%20NLP.md)
+
 ### Indice
 
 * [Natural Language Processing (NLP)](#natural-language-processing-nlp)
-    * [Indice](#indice)
-    * [Prompt per ChatGPT](#prompt-per-chatgpt)
     * [Appunti](#appunti)
+    * [Indice](#indice)
+    * [Introduzione](#introduzione)
+    * [Prompt per ChatGPT](#prompt-per-chatgpt)
 
----
+### Introduzione
 
 L'Elaborazione del Linguaggio Naturale, abbreviato come NLP, rappresenta una delle discipline più affascinanti e in
 continua evoluzione nell'ambito dell'intelligenza artificiale e del machine learning. Questa disciplina si occupa di
@@ -38,10 +47,3 @@ approfondire e comprendere gli argomenti trattati nel corso di studi. Salverò i
 all'interno della conversazione, così da avere sotto mano gli appunti da usare come sorgente di studio per ripassare, e
 per preparare l'esame finale.
 ```
-
-## Appunti
-
-1. [Semantica Vettoriale](01.Semantica%20Vettoriale.md)
-2. [Approcci Computazionali](02.Approcci%20computazionali.md)
-3. [Approcci Generativi](03.Approcci%20generativi.md)
-4. [Approcci Discriminativi](04.Approcci%20discriminativi.md)
