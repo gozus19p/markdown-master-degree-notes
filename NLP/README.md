@@ -7,6 +7,7 @@
 3. [Approcci Generativi](03.Approcci%20generativi.md)
 4. [Approcci Discriminativi](04.Approcci%20discriminativi.md)
 5. [Text Classification - DNN in NLP](05.Text%20Classification%20-%20DNN%20in%20NLP.md)
+6. [Word Embeddings](06.Word%20Embeddings.md)
 
 ### Indice
 
