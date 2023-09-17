@@ -10,6 +10,7 @@
 6. [Word Embeddings](06.Word%20Embeddings.md)
 7. [Neural Sequence Labeling](07.Neural%20Sequence%20Labeling.md)
 8. [Information Extraction](08.Information%20Extraction.md)
+9. [Question Answering](09.Question%20Answering.md)
 
 ### Indice
 
