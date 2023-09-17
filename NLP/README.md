@@ -9,6 +9,7 @@
 5. [Text Classification - DNN in NLP](05.Text%20Classification%20-%20DNN%20in%20NLP.md)
 6. [Word Embeddings](06.Word%20Embeddings.md)
 7. [Neural Sequence Labeling](07.Neural%20Sequence%20Labeling.md)
+8. [Information Extraction](08.Information%20Extraction.md)
 
 ### Indice
 
