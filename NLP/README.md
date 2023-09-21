@@ -12,6 +12,7 @@
 8. [Information Extraction](08.Information%20Extraction.md)
 9. [Question Answering](09.Question%20Answering.md)
 10. [Conversational Agents](10.Conversational%20Agents.md)
+11. [Machine Translation](11.Machine%20Translation.md)
 
 ### Indice
 
