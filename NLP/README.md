@@ -44,12 +44,3 @@ Questi appunti si immergeranno nell'NLP, esplorando le sue basi, le applicazioni
 ricercatori e gli ingegneri affrontano quotidianamente. Attraverso questo percorso, acquisiremo una comprensione più
 profonda di come le macchine possono non solo comprenderci, ma anche comunicare in modo sempre più naturale ed efficace
 con noi.
-
-### Prompt per ChatGPT
-
-```text
-Sto studiando Natural Language Processing all'università. Utilizzerò questa chat per farti domande al fine di
-approfondire e comprendere gli argomenti trattati nel corso di studi. Salverò in formato Markdown ciò che verrà detto
-all'interno della conversazione, così da avere sotto mano gli appunti da usare come sorgente di studio per ripassare, e
-per preparare l'esame finale.
-```
